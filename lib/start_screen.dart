@@ -40,8 +40,8 @@ class StartScreen extends StatelessWidget {
   ),
 ),
           const SizedBox(height: 30,),
-          Image.asset(/*'android/assets/images/YellowCards.png',*/
-          'android/assets/images/Gray-cards.png',
+          Image.asset(
+            'android/assets/images/Gray-cards.png',
           color: const Color.fromARGB(255, 241, 170, 5),
           width: 200,
           ),
